@@ -297,6 +297,12 @@ amdefine@>=0.0.4:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/amdefine/-/amdefine-1.0.1.tgz#4a5282ac164729e93619bcfd3ad151f817ce91f5"
 
+angular-crud@^0.0.6:
+  version "0.0.6"
+  resolved "https://registry.yarnpkg.com/angular-crud/-/angular-crud-0.0.6.tgz#df52fdfb4dd6007917ebb2c5caae43745e65ef7f"
+  dependencies:
+    json5 "^0.5.1"
+
 ansi-html@0.0.7:
   version "0.0.7"
   resolved "https://registry.yarnpkg.com/ansi-html/-/ansi-html-0.0.7.tgz#813584021962a9e9e6fd039f940d12f56ca7859e"
